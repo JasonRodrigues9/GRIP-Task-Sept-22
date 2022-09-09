@@ -1,0 +1,7 @@
+to run the jupyter notebook:
+open the folder(GRIP)
+type cmd
+in cmd, type jupyter notebook
+
+to open in new browser:
+copy the token url in search bar
